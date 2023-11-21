@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthReminder.Core", "HealthReminder.Core\HealthReminder.Core.csproj", "{7C58B787-5172-4C8C-B124-726775F4F48A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthReminder.Frm", "HealthReminder.Frm\HealthReminder.Frm.csproj", "{932DDD2A-BD83-4A53-B633-5736CBEF2141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C58B787-5172-4C8C-B124-726775F4F48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C58B787-5172-4C8C-B124-726775F4F48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C58B787-5172-4C8C-B124-726775F4F48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C58B787-5172-4C8C-B124-726775F4F48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932DDD2A-BD83-4A53-B633-5736CBEF2141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932DDD2A-BD83-4A53-B633-5736CBEF2141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932DDD2A-BD83-4A53-B633-5736CBEF2141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932DDD2A-BD83-4A53-B633-5736CBEF2141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02CCF4F-E506-4CC3-BC2F-E64D7E999895}
+	EndGlobalSection
+EndGlobal
